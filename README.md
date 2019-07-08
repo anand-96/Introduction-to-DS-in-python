@@ -1,1 +1,1 @@
-Jupyter notebook Assignments
+Pluralsight Assignments
